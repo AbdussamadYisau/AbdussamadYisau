@@ -10,7 +10,7 @@ const aboutMe = {
     employment: {
         current: "Learning and improving myself",
         student: "5th year Electrical and Electronics Engineering student @ University of Lagos, Nigeria",
-        leadership: "General Secretary of Society of Electrical and Engineering Students (SEES), University of Lagos"
+        leadership: "General Secretary of Society of Electrical and Engineering Students (SEES), University of Lagos, 2019/2020"
     },
     connect: {
         github: "https://github.com/AbdussamadYisau",

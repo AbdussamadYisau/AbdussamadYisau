@@ -13,8 +13,8 @@ const aboutMe = {
         leadership: "General Secretary of Society of Electrical and Engineering Students (SEES), University of Lagos"
     },
     connect: {
-        github: "https://github.com/chrisngyn/chrisngyn",
-        linkedin: "https://www.linkedin.com/in/chrisngyn",
+        github: "https://github.com/AbdussamadYisau",
+        linkedin: "https://www.linkedin.com/in/abdussamad-yisau-915298154/",
         
     },
     quote: "You win with consistency."

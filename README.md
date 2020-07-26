@@ -1,5 +1,5 @@
 
-### Hi there! I'm Abdussamad. <img src="https://github.com/chrisngyn/chrisngyn/blob/master/Hi.gif" width="30px">
+### Hi there! I'm Abdussamad. <img src="https://github.com/AbdussamadYisau/AbdussamadYisau/blob/master/Hi.gif" width="30px">
 
 ```javascript
 const aboutMe = {

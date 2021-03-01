@@ -4,11 +4,10 @@
 ```javascript
 const aboutMe = {
     name: "Abdussamad Yisau",
-    pronouns: ["He", "Him"],
-    languages: ["HTML", "CSS", "JavaScript" , "Python", "ReactJS", "NodeJS", ],
-    learning: "How to make web applications with the MERN stack",
+    languages: ["HTML", "CSS", "JavaScript" , "Python", "ReactJS", "NodeJS"],
     connect: {
         github: "https://github.com/AbdussamadYisau",
+        email: "sammieyisau@gmail.com",
         linkedin: "https://www.linkedin.com/in/abdussamad-yisau-915298154/",
         
     },

@@ -4,14 +4,12 @@
 ```javascript
 const aboutMe = {
     name: "Abdussamad Yisau",
-    languages: ["HTML", "CSS", "JavaScript" , "Python", "ReactJS", "NodeJS"],
+    languages: ["JavaScript", "ReactJS", "React Native", "NodeJS", "Python"],
     connect: {
-        github: "https://github.com/AbdussamadYisau",
         email: "sammieyisau@gmail.com",
         linkedin: "https://www.linkedin.com/in/abdussamad-yisau-915298154/",
-        
     },
-    quote: "You win with consistency."
+    quote: "Elemi lo ma last"
 }
 ```
 

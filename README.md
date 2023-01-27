@@ -8,6 +8,7 @@ const aboutMe = {
     connect: {
         email: "sammieyisau@gmail.com",
         linkedin: "https://www.linkedin.com/in/abdussamad-yisau-915298154/",
+        website: "https://www.abdussamadyisau.com/"
     },
     quote: "Elemi lo ma last"
 }

@@ -4,7 +4,7 @@
 ```javascript
 const aboutMe = {
     name: "Abdussamad Yisau",
-    languages: ["JavaScript", "ReactJS", "React Native", "NodeJS", "Python"],
+    languages: ["JavaScript", "ReactJS"],
     connect: {
         email: "sammieyisau@gmail.com",
         linkedin: "https://www.linkedin.com/in/abdussamad-yisau-915298154/",
